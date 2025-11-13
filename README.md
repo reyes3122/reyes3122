@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="[https://github.com/reyes3122/reyes3122?tab=readme-ov-file](https://github.com/reyes3122)"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Frontend;Apasionado%20por%20el%20diseño%20web;Explorando%20nuevas%20tecnologías%20web;Siempre%20aprendiendo%20cosas%20nuevas&font=Fira%20Code&center=true&width=440&height=45&color=9A4DFF"></a>
+  <a href="https://github.com/reyes3122"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Frontend;Apasionado%20por%20el%20diseño%20web;Explorando%20nuevas%20tecnologías%20web;Siempre%20aprendiendo%20cosas%20nuevas&font=Fira%20Code&center=true&width=440&height=45&color=9A4DFF"></a>
 </p>
 
 
