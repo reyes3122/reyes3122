@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![XAMPP](https://img.shields.io/badge/XAMPP-%23F1A100?style=flat&logo=xampp&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23CF0000.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
 
  🧰 Control de Versiones y Herramientas 
